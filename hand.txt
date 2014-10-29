@@ -1,0 +1,54 @@
+================================================================
+Title                   : "Give him a hand."   
+Filename                : HAND.WAD
+Author                  : Jesse Fisher
+Email Address           : kjfisher@fyiowa.infi.net
+
+Description             : This is a very small wad, compared to some others.  But hey, IM A BEGINNER! 
+			  Im learnin'.     
+
+                      
+
+
+
+Additional Credits to   : Matthew G. Hooper  - thanks for the great midi
+                                               i know i didnt ask, but i dont know your e-mail.
+					       He got that from Anthony Peters.
+					       Called:  Backwater by the Meat Puppets
+
+                          
+
+================================================================
+
+* Play Information *
+
+Episode and Level #     : E1M1
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes, im not sure how good
+Deathmatch 2-4 Player   : Yes, well, not really, their all together
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : Yes
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+
+Editor(s) used          : DoomCad v6.1
+                          Windeu32
+			  Midi2Mus
+                          Dmmusic
+
+Known Bugs              : No Known Bugs
+
+
+* Copyright / Permissions *
+
+Please Include this text file with the WAD.
+
+
+
+* Where to get this WAD *
+Http://www.geocities.com/SiliconValley/Park/1973/

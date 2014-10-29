@@ -1,0 +1,26 @@
+
+<!-- Begin RPG Music WebRing code  -->
+ <center>
+ <TABLE BORDER CELLSPACING="2" CELLPADDING="2">
+ <TR><TD>
+     <center>
+     <font size=2><font face="Comic Sans MS">
+  <a href="http://rpgmusic.simplenet.com/RPGmusic.html" TARGET="_top">
+  <img src="RPGmusic.jpg" BORDER="0" WIDTH=275 HEIGHT=125></A>
+  <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&next" TARGET="_top">
+  <IMG src="RPGnext.jpg" alt="Next site" border="0"></A>
+               <br>
+ This <a href="http://rpgmusic.simplenet.com/RPGmusic.html" TARGET="_top"> RPG Music Web Ring </A>
+ site is owned by <A HREF="mailto:--mail--">--name--</A><br>
+   
+   <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&prev" TARGET="_top">Previous</A> |
+   <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&random" TARGET="_top">Random</A> |
+   <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&next5" TARGET="_top">Next 5</A> |
+   <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&skip" TARGET="_top">Skip it</A> |
+   <A href="http://www.webring.org/cgi-bin/webring?ring=rpgmusic&id=--id--&next" TARGET="_top">Next</A>    
+         <BR><BR>
+      Want to join the RPG Music Ring? Click
+ <A href="http://rpgmusic.simplenet.com/RPGmusic.html" TARGET="_top"> HERE </A> for info.
+
+   </TD> </TR>  </TABLE>  </center></font face>
+<!-- End RPG music WebRing Fragment-->
