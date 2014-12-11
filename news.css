@@ -1,0 +1,26 @@
+.news_top {
+  width: 575px;
+  height: 20px;
+  background-image: url("pictures/news_top.gif");
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0px;
+  padding: 10px 0px;
+}
+
+.news_mid {
+  width: 555px;
+  background-image: url("pictures/newsback.jpg");
+  color:#f0f0f0;
+  margin: 0px;
+  padding: 10px;
+}
+
+.news_bot {
+  width: 575px;
+  height: 32px;
+  background-image: url("pictures/news_bot.gif");
+  margin: 0px;
+  padding: 0px;
+}
