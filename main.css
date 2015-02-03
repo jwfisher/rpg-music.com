@@ -1,3 +1,9 @@
+html {
+  background: #ffffff url("pictures/back03.jpg");
+  padding: 0px 0px;
+  margin: 20px 0px;
+}
+
 body {width: 960px;color: #000000;}
 
 a:link {color: #ff0000;text-decoration: none;}
@@ -23,33 +29,37 @@ header {
   width:785px;
   float:left;
   margin: 0px 0px 20px 15px;
-  text-align: left;
+  text-align: center;
 }
 
 section {
   width:785px;
   float:left;
-
-  margin:  0px,0px,0px,15px;	
+  padding: 0px;
+  margin:  0px 0px 0px 15px;	
   text-align: left;
   font-size:16px;
   color: #505050;
 }
 
-article {
-  text-align:   left;
-  font-size:    16px;
-  margin-left:  auto;
-  margin-right: auto;	 
-}
-
-footer {
-  color: #505050;
-  font-size:13px;
-  width:785px;
-  float:left;
-  margin: 0px 0px 20px 15px;
-  text-align: center;
-}
-
 .center {margin: 0 auto;}
+
+p.game_header {
+  font-family:comic sans MS;
+  font-size:20px;
+  color: #000000;
+  margin: 0px;
+}
+
+.large {font-size:20px;}
+
+div.movie{
+  width: 420px;
+  height: 315px;
+  margin: 0 auto;
+}
+
+td.ratings {
+  font-family: Wingdings;
+  font-size: 25px;
+}
