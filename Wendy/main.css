@@ -15,27 +15,78 @@ body {
   border-bottom-right-radius: 30px;
 }
 
+/*
 a:link {color: #ff0000;text-decoration: none;}
 a:visited {color: #ffff00;}
 a:hover {color: #ff00ff;}
 a:active {color: #0000ff;}
+*/
 
 header {
   background: #bf273c;
   color: white;
   font-size:46px;
-  width:1000px;
+  width:auto;
   height:60px;
   padding: 20px 0px;
   text-align: center;
+
 }
+
+#menu {
+  width: auto;
+  height: 50px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #f8ecdc; 
+}
+
+
+#menu ul{
+  height: auto;
+  padding: 8px 0px;
+  margin: 0px;
+}
+
+#menu li{ 
+  color: #bf273c;
+  display: inline; 
+  padding: 0px 20px; 
+  width: 250px;
+}
+
+#menu a{
+  text-decoration: none;
+  color: #bf273c;
+  padding: 8px 8px 8px 8px;
+}
+
+#menu a:hover {
+  color: #f8ecdc;
+  background-color: #bf273c;
+  
+  border-width: 1px;
+  border-color: #bf273c;
+  border-style: solid;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  
+}
+
+
+/*
+text-shadow: 3px 2px 3px #333333;
+font-family: Tahoma, Geneva, sans-serif;
+font-weight: bold;
+border-radius: 8px;
 
 nav {
   height:100px;
   width:1000px;
   padding:0px;	 
 }
-
 div.navi {
   background: #F8ECDC;
   color:#BA1C21;
@@ -46,7 +97,7 @@ div.navi {
   height: 30px;
   width: 20%;
 }
-/*
+
 div.navi {
   background: #F8ECDC;
   color:#BA1C21;
@@ -56,6 +107,7 @@ div.navi {
   height: 30px;
   width: 20%;
   padding: 10px 0px;
+  
   border-style: solid;
   border-width: 5px;
 }*/
@@ -64,11 +116,11 @@ div.navi {
 section {
   width:1000px;
 
-  padding: 0px;
-  margin:  0px 0px 0px 15px;	
+  padding: 20px;
+	
   text-align: left;
   font-size:16px;
-  color: #505050;
+  color: black;
 }
 
 .dsu_red {font-color: #BA1C21;}
